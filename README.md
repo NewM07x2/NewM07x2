@@ -12,77 +12,77 @@
 
 ### 🎨Web / Frontend / Frameworks
 <p>
-  <img src="./icon_svg/javascript-svgrepo-com.svg" alt="JavaScript" width="52" height="40" />
-  <img src="./icon_svg/typescript-svgrepo-com.svg" alt="TypeScript" width="52" height="40" />
-  <img src="./icon_svg/react-svgrepo-com.svg" alt="React" width="52" height="40" />
-  <img src="./icon_svg/next-dot-js-svgrepo-com.svg" alt="Next.js" width="52" height="40" />
-  <img src="./icon_svg/vue-svgrepo-com.svg" alt="Vue" width="52" height="40" />
-  <img src="./icon_svg/nuxt-icon-svgrepo-com.svg" alt="nuxt" width="52" height="40" />
-  <img src="./icon_svg/html5-svgrepo-com.svg" alt="HTML5" width="52" height="40" />
-  <img src="./icon_svg/css3-svgrepo-com.svg" alt="CSS3" width="52" height="40" />
-  <img src="./icon_svg/tailwind-svgrepo-com.svg" alt="Tailwind" width="52" height="40" />
-  <img src="./icon_svg/vitejs-svgrepo-com.svg" alt="Vite" width="52" height="40" />
-  <img src="./icon_svg/flutter-svgrepo-com.svg" alt="Flutter" width="52" height="40" />
+  <img src="./icon_svg/javascript.svg" alt="JavaScript" width="52" height="40" />
+  <img src="./icon_svg/typescript.svg" alt="TypeScript" width="52" height="40" />
+  <img src="./icon_svg/react.svg" alt="React" width="52" height="40" />
+  <img src="./icon_svg/next-dot-js.svg" alt="Next.js" width="52" height="40" />
+  <img src="./icon_svg/vue.svg" alt="Vue" width="52" height="40" />
+  <img src="./icon_svg/nuxt-icon.svg" alt="nuxt" width="52" height="40" />
+  <img src="./icon_svg/html5.svg" alt="HTML5" width="52" height="40" />
+  <img src="./icon_svg/css3.svg" alt="CSS3" width="52" height="40" />
+  <img src="./icon_svg/tailwind.svg" alt="Tailwind" width="52" height="40" />
+  <img src="./icon_svg/vitejs.svg" alt="Vite" width="52" height="40" />
+  <img src="./icon_svg/flutter.svg" alt="Flutter" width="52" height="40" />
 </p>
 
 ### ⚙️ Backend / APIs / Frameworks
 <p>
-  <img src="./icon_svg/python-svgrepo-com.svg" alt="Python" width="52" height="40" />
-  <img src="./icon_svg/fastapi-svgrepo-com.svg" alt="FastAPI" width="52" height="40" />
-  <img src="./icon_svg/django-icon-svgrepo-com.svg" alt="Django" width="52" height="40" />
-  <img src="./icon_svg/java-logo-svgrepo-com.svg" alt="Java" width="52" height="40" />
-  <img src="./icon_svg/spring-icon-svgrepo-com.svg" alt="Spring" width="52" height="40" />
-  <img src="./icon_svg/go-svgrepo-com.svg" alt="Go" width="52" height="40" />
-  <img src="./icon_svg/php-svgrepo-com.svg" alt="PHP" width="52" height="40" />
-  <img src="./icon_svg/laravel-svgrepo-com.svg" alt="Laravel" width="52" height="40" />
-  <img src="./icon_svg/zend-framework-svgrepo-com.svg" alt="Zend Framework" width="52" height="40" />
+  <img src="./icon_svg/python.svg" alt="Python" width="52" height="40" />
+  <img src="./icon_svg/fastapi.svg" alt="FastAPI" width="52" height="40" />
+  <img src="./icon_svg/django-icon.svg" alt="Django" width="52" height="40" />
+  <img src="./icon_svg/java.svg" alt="Java" width="52" height="40" />
+  <img src="./icon_svg/spring-icon.svg" alt="Spring" width="52" height="40" />
+  <img src="./icon_svg/go.svg" alt="Go" width="52" height="40" />
+  <img src="./icon_svg/php.svg" alt="PHP" width="52" height="40" />
+  <img src="./icon_svg/laravel.svg" alt="Laravel" width="52" height="40" />
+  <img src="./icon_svg/zend-framework.svg" alt="Zend Framework" width="52" height="40" />
 </p>
 
 ### 🗄️ Database / ORM / Storage
 <p>
-  <img src="./icon_svg/postgresql-logo-svgrepo-com.svg" alt="Postgres" width="52" height="40" />
-  <img src="./icon_svg/mysql-svgrepo-com.svg" alt="MySQL" width="52" height="40" />
-  <img src="./icon_svg/microsoftsqlserver-svgrepo-com.svg" alt="MSSQL" width="52" height="40" />
-  <img src="./icon_svg/prisma-svgrepo-com.svg" alt="Prisma" width="52" height="40" />
-  <img src="./icon_svg/graphql-svgrepo-com.svg" alt="GraphQL" width="52" height="40" />
+  <img src="./icon_svg/postgresql.svg" alt="Postgres" width="52" height="40" />
+  <img src="./icon_svg/mysql.svg" alt="MySQL" width="52" height="40" />
+  <img src="./icon_svg/microsoftsqlserver.svg" alt="MSSQL" width="52" height="40" />
+  <img src="./icon_svg/prisma.svg" alt="Prisma" width="52" height="40" />
+  <img src="./icon_svg/graphql.svg" alt="GraphQL" width="52" height="40" />
 </p>
 
 ### ☁️ Cloud Platforms
 
 <p>
-  <img src="./icon_svg/aws-svgrepo-com.svg" alt="AWS" width="52" height="40" />
-  <img src="./icon_svg/gcp-svgrepo-com.svg" alt="GCP" width="52" height="40" />
-  <img src="./icon_svg/azure-svgrepo-com.svg" alt="Azure" width="52" height="40" />
+  <img src="./icon_svg/aws.svg" alt="AWS" width="52" height="40" />
+  <img src="./icon_svg/gcp.svg" alt="GCP" width="52" height="40" />
+  <img src="./icon_svg/azure.svg" alt="Azure" width="52" height="40" />
 </p>
 
 ### 💡 DevOps / Infra / Tools
 
 <p>
-  <img src="./icon_svg/git-svgrepo-com.svg" alt="Git" width="52" height="40" />
-  <img src="./icon_svg/docker-svgrepo-com.svg" alt="Docker" width="52" height="40" />
-  <img src="./icon_svg/kubernetes-svgrepo-com.svg" alt="Kubernetes" width="52" height="40" />
-  <img src="./icon_svg/nginx-svgrepo-com.svg" alt="NGINX" width="52" height="40" />
-  <img src="./icon_svg/jenkins-svgrepo-com.svg" alt="Jenkins" width="52" height="40" />
-  <img src="./icon_svg/github-142-svgrepo-com.svg" alt="GitHub" width="52" height="40" />
-  <img src="./icon_svg/gitlab-svgrepo-com.svg" alt="GitLab" width="52" height="40" />
+  <img src="./icon_svg/git.svg" alt="Git" width="52" height="40" />
+  <img src="./icon_svg/docker.svg" alt="Docker" width="52" height="40" />
+  <img src="./icon_svg/kubernetes.svg" alt="Kubernetes" width="52" height="40" />
+  <img src="./icon_svg/nginx.svg" alt="NGINX" width="52" height="40" />
+  <img src="./icon_svg/jenkins.svg" alt="Jenkins" width="52" height="40" />
+  <img src="./icon_svg/github-142.svg" alt="GitHub" width="52" height="40" />
+  <img src="./icon_svg/gitlab.svg" alt="GitLab" width="52" height="40" />
 </p>
 
 ### 📖 Development Tools
 
 <p>
-  <img src="./icon_svg/visual-studio-code-svgrepo-com.svg" alt="VSCode" width="52" height="40" />
-  <img src="./icon_svg/visual-studio-svgrepo-com.svg" alt="Visual Studio" width="52" height="40" />
-  <img src="./icon_svg/eclipse-icon-svgrepo-com.svg" alt="Eclipse" width="52" height="40" />
-  <img src="./icon_svg/jira-svgrepo-com.svg" alt="Jira" width="52" height="40" />
-  <img src="./icon_svg/confluence-svgrepo-com.svg" alt="Confluence" width="52" height="40" />
+  <img src="./icon_svg/visual-studio-code.svg" alt="VSCode" width="52" height="40" />
+  <img src="./icon_svg/visual-studio.svg" alt="Visual Studio" width="52" height="40" />
+  <img src="./icon_svg/eclipse-icon.svg" alt="Eclipse" width="52" height="40" />
+  <img src="./icon_svg/jira.svg" alt="Jira" width="52" height="40" />
+  <img src="./icon_svg/confluence.svg" alt="Confluence" width="52" height="40" />
 </p>
 
 ### ✒️ Design & Analytics
 
 <p>
-  <img src="./icon_svg/figma-svgrepo-com.svg" alt="Figma" width="52" height="40" />
-  <img src="./icon_svg/miro-svgrepo-com.svg" alt="Miro" width="52" height="40" />
-  <img src="./icon_svg/datadog-svgrepo-com.svg" alt="Datadog" width="52" height="40" />
+  <img src="./icon_svg/figma.svg" alt="Figma" width="52" height="40" />
+  <img src="./icon_svg/miro.svg" alt="Miro" width="52" height="40" />
+  <img src="./icon_svg/datadog.svg" alt="Datadog" width="52" height="40" />
 </p>
 </div>
 
