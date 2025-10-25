@@ -17,7 +17,8 @@
   <img src="./icon_svg/react.svg" alt="React" width="52" height="40" />
   <img src="./icon_svg/next-dot-js.svg" alt="Next.js" width="52" height="40" />
   <img src="./icon_svg/vue.svg" alt="Vue" width="52" height="40" />
-  <img src="./icon_svg/nuxt-icon.svg" alt="nuxt" width="52" height="40" />
+  <img src="./icon_svg/nuxt.svg" alt="nuxt" width="52" height="40" />
+  <img src="./icon_svg/nodejs2.svg" alt="Node.js" width="52" height="40" />
   <img src="./icon_svg/html5.svg" alt="HTML5" width="52" height="40" />
   <img src="./icon_svg/css3.svg" alt="CSS3" width="52" height="40" />
   <img src="./icon_svg/tailwind.svg" alt="Tailwind" width="52" height="40" />
@@ -29,7 +30,7 @@
 <p>
   <img src="./icon_svg/python.svg" alt="Python" width="52" height="40" />
   <img src="./icon_svg/fastapi.svg" alt="FastAPI" width="52" height="40" />
-  <img src="./icon_svg/django-icon.svg" alt="Django" width="52" height="40" />
+  <img src="./icon_svg/django2.svg" alt="Django" width="52" height="40" />
   <img src="./icon_svg/java.svg" alt="Java" width="52" height="40" />
   <img src="./icon_svg/spring-icon.svg" alt="Spring" width="52" height="40" />
   <img src="./icon_svg/go.svg" alt="Go" width="52" height="40" />
