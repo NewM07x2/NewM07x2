@@ -68,6 +68,7 @@
     <img src="./icon_svg/jenkins.svg" alt="Jenkins" width="40" height="40"  />
     <img src="./icon_svg/github-142.svg" alt="GitHub" width="40" height="40"  />
     <img src="./icon_svg/gitlab.svg" alt="GitLab" width="40" height="40"  />
+    <img src="./icon_svg/docker.svg" alt="GitLab" width="40" height="40"  />
 </p>
 
 ### 📖 Development Tools
