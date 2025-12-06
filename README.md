@@ -8,10 +8,10 @@
 
 ## 🛠️ My Skills
 
-<div align="center">
+<div align="left">
 
 ### 🎨 Web / Frontend / Frameworks
-<p style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+<p style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: start;">
     <img src="./icon_svg/javascript.svg" alt="JavaScript" width="40" height="40" />
     <img src="./icon_svg/typescript.svg" alt="TypeScript" width="40" height="40" />
     <img src="./icon_svg/react.svg" alt="React" width="40" height="40" />
